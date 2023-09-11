@@ -1,5 +1,7 @@
 import app
-
+#########
+#Unites for the is palindrom function 
+#########
 if app.is_palindrome('mom'):
     print("Test passed")
 else:
